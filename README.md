@@ -1,4 +1,4 @@
-## ❤️‍🩹 Not really battle tested scripts, use at your own discretion. 
+## ❤️‍🩹 Not really battle tested, use at your own discretion. 
 
 # Personal Scripts Collection
 
